@@ -1,4 +1,3 @@
 # poll-voting-app
-🔗 Live Demo
- poll-voting-app.netlify.app
+🔗Live Demo: https://poll-voting-app.netlify.app
 
